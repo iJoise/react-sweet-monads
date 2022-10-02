@@ -1,1 +1,1 @@
-# react-sweet-monads
+## sweet monads example
